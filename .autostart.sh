@@ -1,3 +1,4 @@
+# For dwm
 #! /bin/bash
 
 while true; do
